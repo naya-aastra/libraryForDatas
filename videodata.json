@@ -1,0 +1,8 @@
+ {
+  "name":"c test",
+  "version":0,
+  "items": [
+    { "title":"Introduction to C","video_endpoint":"https://youtu.be/r1cHQ9uMbDY","id":1,"thumbnail":"https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" },
+    { "title":"Introduction to C","video_endpoint":"https://youtu.be/r1cHQ9uMbDY","id":2,"thumbnail":"" }
+  ]
+ } 
